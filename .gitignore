@@ -5,3 +5,5 @@ leads/__pycache__/
 leads/migrations/
 db.sqlite3
 frontend/node_modules
+frontend/__pycache__
+frontend/migrations/
