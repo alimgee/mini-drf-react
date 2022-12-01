@@ -3,3 +3,4 @@ django_react/__pycache__
 /__pycache__/
 leads/__pycache__/
 leads/migrations/
+db.sqlite3
